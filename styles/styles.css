@@ -1,0 +1,29 @@
+nav,
+footer {
+    background-color: #1d3557;
+}
+
+/* .cities-name {
+    background-color: #1d3557;
+} */
+
+main .buttons .btn {
+    margin-bottom: 8px;
+    min-width: 70%;
+}
+
+main .buttons .btn:last-child {
+    margin-bottom: 0;
+}
+
+.inputs{
+    min-width: 46%;
+    margin: 5px;
+    margin-left: 12px;
+}
+
+.addUser {
+    min-width: 50%;
+    margin-top: 10px;
+    
+}
